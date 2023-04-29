@@ -5,11 +5,11 @@ on:
     branches:
       - main # Set a branch to deploy
 
-permissions: read-all|write-all
 
 jobs:
   build-and-push-image:
     runs-on: ubuntu-latest
+    permissions: read-all|write-all
     
     steps:
       - name: Contributor Map
