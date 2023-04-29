@@ -1,0 +1,16 @@
+name: Create Ivy Map Map
+
+on:
+  schedule:
+    - cron: "0 8 * * 1"
+  
+jobs:
+  build-and-push-image:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Contributor Map
+        uses: tunaitis/contributor-map@v1 
+        with:
+          repository: unifyai/ivy
+          output: data/ivy.svg
