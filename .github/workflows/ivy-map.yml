@@ -1,9 +1,9 @@
 name: Create Ivy Map Map
 
 on:
-  schedule:
-    - cron: "0 8 * * 1"
-  
+  push:
+    branches:
+      - main # Set a branch to deploy
 jobs:
   build-and-push-image:
     runs-on: ubuntu-latest
