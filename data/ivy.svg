@@ -207,42 +207,42 @@
 	.palette-color-5 { fill: #47A042 !important; }
 	.palette-color-6 { fill: #328533 !important; }
 	.palette-color-7 { fill: #1D6A23 !important; }
-	.dz { fill: #D9E887; }
-	.gr { fill: #D9E887; }
-	.bd { fill: #D9E887; }
 	.hk { fill: #D9E887; }
-	.xk { fill: #D9E887; }
-	.ro { fill: #D9E887; }
+	.gh { fill: #D9E887; }
 	.rw { fill: #D9E887; }
+	.xk { fill: #D9E887; }
+	.bd { fill: #D9E887; }
+	.gr { fill: #D9E887; }
+	.ro { fill: #D9E887; }
+	.dz { fill: #D9E887; }
 	.my { fill: #D9E887; }
 	.do { fill: #D9E887; }
-	.gh { fill: #D9E887; }
-	.pl { fill: #B3D778; }
-	.sg { fill: #B3D778; }
 	.id { fill: #B3D778; }
+	.sg { fill: #B3D778; }
+	.ug { fill: #B3D778; }
+	.cl { fill: #B3D778; }
 	.it { fill: #B3D778; }
 	.ke { fill: #B3D778; }
-	.cl { fill: #B3D778; }
-	.ug { fill: #B3D778; }
+	.pl { fill: #B3D778; }
 	.zw { fill: #B3D778; }
+	.cn { fill: #8CC569; }
 	.no { fill: #8CC569; }
+	.me { fill: #8CC569; }
 	.tr { fill: #8CC569; }
 	.es { fill: #8CC569; }
-	.me { fill: #8CC569; }
-	.cn { fill: #8CC569; }
 	.co { fill: #6AB356; }
 	.ca { fill: #6AB356; }
 	.ma { fill: #6AB356; }
-	.de { fill: #47A042; }
 	.ng { fill: #47A042; }
+	.de { fill: #47A042; }
 	.au { fill: #47A042; }
-	.pk { fill: #328533; }
 	.kr { fill: #328533; }
 	.vn { fill: #328533; }
+	.pk { fill: #328533; }
 	.eg { fill: #1D6A23; }
-	.gb { fill: #1D6A23; }
 	.in { fill: #1D6A23; }
 	.us { fill: #1D6A23; }
+	.gb { fill: #1D6A23; }
 #legend7 { display: inline !important; }</style>
 
   <path
