@@ -12,8 +12,13 @@ jobs:
     permissions: write-all
     
     steps:
-      - name: Contributor Map
+      - name: Ivy Map
         uses: tunaitis/contributor-map@v1 
         with:
           repository: unifyai/ivy
           output: data/ivy.svg
+      - name: Open Sauced Map
+        uses: tunaitis/contributor-map@v1 
+        with:
+          repository: open-sauced/open-sauced
+          output: data/open_sauced.svg
