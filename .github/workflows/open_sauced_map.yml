@@ -1,0 +1,19 @@
+name: Create Open sauced Map
+
+on:
+  push:
+    branches:
+      - main # Set a branch to deploy
+
+
+jobs:
+  build-and-push-image:
+    runs-on: ubuntu-latest
+    permissions: write-all
+    
+    steps:
+      - name: Contributor Map
+        uses: tunaitis/contributor-map@v1 
+        with:
+          repository: open-sauced/open-sauced
+          output: data/open_sauced.svg
