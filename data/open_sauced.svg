@@ -205,21 +205,21 @@
 	.palette-color-3 { fill: #8CC569 !important; }
 	.palette-color-4 { fill: #6AB356 !important; }
 	.palette-color-5 { fill: #47A042 !important; }
-	.ba { fill: #D9E887; }
-	.ca { fill: #B3D778; }
-	.np { fill: #B3D778; }
-	.gb { fill: #B3D778; }
-	.ng { fill: #B3D778; }
-	.sn { fill: #B3D778; }
-	.de { fill: #B3D778; }
-	.ch { fill: #B3D778; }
-	.hk { fill: #B3D778; }
-	.id { fill: #8CC569; }
-	.jm { fill: #8CC569; }
 	.cz { fill: #6AB356; }
 	.in { fill: #6AB356; }
 	.us { fill: #47A042; }
 	.ro { fill: #47A042; }
+	.ba { fill: #D9E887; }
+	.ca { fill: #B3D778; }
+	.hk { fill: #B3D778; }
+	.de { fill: #B3D778; }
+	.sn { fill: #B3D778; }
+	.np { fill: #B3D778; }
+	.gb { fill: #B3D778; }
+	.ch { fill: #B3D778; }
+	.ng { fill: #B3D778; }
+	.id { fill: #8CC569; }
+	.jm { fill: #8CC569; }
 #legend5 { display: inline !important; }</style>
 
   <path
