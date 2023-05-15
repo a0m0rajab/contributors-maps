@@ -13,7 +13,7 @@ jobs:
     
     steps:
       - name: Contributor Map
-        uses: tunaitis/contributor-map@v1 
+        uses: tunaitis/contributor-map@master
         with:
           repository: open-sauced/open-sauced
           output: data/open_sauced.svg
