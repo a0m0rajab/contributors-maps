@@ -13,12 +13,12 @@ jobs:
     
     steps:
       - name: Ivy Map
-        uses: tunaitis/contributor-map@v1 
+        uses: tunaitis/contributor-map@master
         with:
           repository: unifyai/ivy
           output: data/ivy.svg
       - name: Open Sauced Map
-        uses: tunaitis/contributor-map@v1 
+        uses: tunaitis/contributor-map@master
         with:
           repository: open-sauced/open-sauced
           output: data/open_sauced.svg
