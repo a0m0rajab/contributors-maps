@@ -206,42 +206,42 @@
 	.palette-color-4 { fill: #6AB356 !important; }
 	.palette-color-5 { fill: #47A042 !important; }
 	.palette-color-6 { fill: #328533 !important; }
-	.my { fill: #D9E887; }
-	.gh { fill: #D9E887; }
-	.be { fill: #D9E887; }
-	.ro { fill: #D9E887; }
-	.rw { fill: #D9E887; }
-	.do { fill: #D9E887; }
-	.hk { fill: #D9E887; }
-	.dz { fill: #D9E887; }
+	.palette-color-7 { fill: #1D6A23 !important; }
+	.co { fill: #6AB356; }
+	.no { fill: #6AB356; }
+	.ca { fill: #6AB356; }
+	.ma { fill: #6AB356; }
+	.de { fill: #47A042; }
+	.au { fill: #47A042; }
+	.ng { fill: #47A042; }
+	.vn { fill: #328533; }
+	.us { fill: #328533; }
+	.kr { fill: #328533; }
+	.pk { fill: #1D6A23; }
+	.gb { fill: #1D6A23; }
+	.eg { fill: #1D6A23; }
+	.in { fill: #1D6A23; }
+	.jp { fill: #D9E887; }
 	.xk { fill: #D9E887; }
-	.cl { fill: #B3D778; }
-	.sg { fill: #B3D778; }
-	.ug { fill: #B3D778; }
-	.zw { fill: #B3D778; }
-	.cn { fill: #B3D778; }
-	.pl { fill: #B3D778; }
+	.dz { fill: #D9E887; }
+	.ae { fill: #D9E887; }
+	.do { fill: #D9E887; }
+	.my { fill: #D9E887; }
+	.hk { fill: #D9E887; }
+	.rw { fill: #D9E887; }
 	.ke { fill: #B3D778; }
+	.zw { fill: #B3D778; }
 	.id { fill: #B3D778; }
-	.me { fill: #B3D778; }
-	.ca { fill: #8CC569; }
+	.ug { fill: #B3D778; }
+	.cl { fill: #B3D778; }
+	.pl { fill: #B3D778; }
+	.sg { fill: #B3D778; }
+	.cn { fill: #8CC569; }
 	.tr { fill: #8CC569; }
 	.es { fill: #8CC569; }
-	.no { fill: #8CC569; }
 	.it { fill: #8CC569; }
-	.de { fill: #6AB356; }
-	.au { fill: #6AB356; }
-	.ma { fill: #6AB356; }
-	.co { fill: #6AB356; }
-	.kr { fill: #47A042; }
-	.ng { fill: #47A042; }
-	.vn { fill: #47A042; }
-	.pk { fill: #47A042; }
-	.gb { fill: #328533; }
-	.us { fill: #328533; }
-	.eg { fill: #328533; }
-	.in { fill: #328533; }
-#legend6 { display: inline !important; }</style>
+	.me { fill: #8CC569; }
+#legend7 { display: inline !important; }</style>
 
   <path
      id="ocean"
@@ -340,7 +340,7 @@
      id="pk"
      transform="translate(-1.5631002,-488.5008)">
     <title
-       id="title6202">Pakistan (72 contributions)
+       id="title6202">Pakistan (142 contributions)
 </title>
     <path
        id="pk-"
@@ -359,7 +359,7 @@
      class="landxx coastxx id"
      transform="translate(-1.5631002,-488.5008)">
     <title
-       id="title6209">Indonesia (4 contributions)
+       id="title6209">Indonesia (3 contributions)
 </title>
     <path
        id="Indonesia_New_Guinea"
@@ -1071,7 +1071,7 @@
      class="landxx coastxx ae"
      transform="translate(-1.5631002,-488.5008)">
     <title
-       id="title6449">United Arab Emirates<!-- ae_contributions -->
+       id="title6449">United Arab Emirates (1 contributions)
 </title>
     <!--UAE-->
     <path
@@ -1400,7 +1400,7 @@
      class="landxx gh"
      d="m 1274.9569,155.95316 c -0.46,-2.453 -0.63,-4.418 0.45,-6.732 0.92,-1.99 0.36,-2.686 1.1,-4.681 0.55,-1.477 2.53,-3.528 3.12,-4.811 0.81,-1.74399 0.17,-4.33199 -0.36,-6.12399 -0.21,-0.714 -0.51,-1.16997 -0.8,-1.83697 -0.32,-0.715 0.15,-1.468 0.2,-2.201 0.12,-1.683 -0.69,-2.868 -0.35,-4.489 0.37,-1.733 -0.34,-3.593 -0.66,-5.279 -0.15,-0.801 -1,-1.701 -0.51,-2.545 0.39,-0.664 0.93,-1.607 0.69,-2.412 4.19,0.375 8.06,-0.27 12.52,0.03 0.9,0.06 3.56,-0.172 3.78,0.349 0.39,0.964 1.96,-0.572 2.78,-1.166 0.83,-0.605 3.22,-0.101 2.7,0.97 -0.8,1.633 -0.99,3.254 1.36,5.017 1.94,1.459 0.85,0.863 1.18,2.373 0.16,0.731 0.25,0.673 0.18,1.513 -0.1,0.85 -0.1,2.226 -0.31,3.303 -1.06,-0.164 -0.61,0.594 -1.08,1.225 0.65,0.11 1.11,-0.623 1.71,-0.455 0.88,0.245 0.86,1.509 0.66,2.154 -0.4,1.239 0.45,4.43497 -1.22,4.13297 0.42,1.067 1.55,1.724 2.2,2.636 0.77,1.092 0.1,1.42199 -0.35,2.43599 -0.54,1.232 0.5,2.853 -0.19,4.014 -0.83,1.388 -0.91,2.075 0.23,3.258 0.54,0.559 -0.1,1.96 -0.32,2.602 -0.61,1.552 -0.76,2.246 0.12,3.792 0.56,0.977 1.75,1.838 2.64,2.529 0.24,0.189 1.76,1.086 1.79,1.196 0.21,0.823 -1.13,1.221 -1.35,1.914 -0.29,0.943 -0.94,1.744 -2.07,1.616 -0.63,-0.07 -0.83,-1.484 -1.17,-1.905 -0.74,-0.907 -1.99,-0.56 -2.97,-0.978 0.79,0.636 2.08,0.244 2.92,0.862 1.66,1.221 -0.88,1.995 -1.71,2.14 -3.14,0.551 -5.12,2.333 -7.73,3.887 -1.49,0.891 -3.15,0.87 -4.75,1.521 -0.96,0.395 -2.06,0.609 -2.88,1.273 -0.69,0.552 -1.25,1.286 -2.05,1.7 -0.81,0.428 -1.46,0.284 -2.07,-0.352 -0.83,-0.863 -1.73,-0.976 -2.82,-1.303 -1.15,-0.343 -2.07,-0.07 -2.78,-1.241 0.94,-0.03 0.47,-0.161 1.41,-0.134 -0.42,-1.213 0.99,-5.071 -1.57,-4.362 0.86,-1.533 -0.75,-4.164 -1.67,-5.431">
     <title
-       id="title6560">Ghana (1 contributions)
+       id="title6560">Ghana<!-- gh_contributions -->
 </title>
   </path>
   <path
@@ -1461,7 +1461,7 @@
      class="landxx tr"
      transform="translate(-1.5631002,-488.5008)">
     <title
-       id="title6581">Turkey (10 contributions)
+       id="title6581">Turkey (8 contributions)
 </title>
     <path
        id="Turkey_Eastern_Thrace"
@@ -1507,7 +1507,7 @@
      class="landxx coastxx jp"
      transform="translate(-1.5631002,-488.5008)">
     <title
-       id="title6597">Japan<!-- jp_contributions -->
+       id="title6597">Japan (2 contributions)
 </title>
     <path
        id="path3482"
@@ -2568,7 +2568,7 @@
      class="landxx eu ro"
      d="m 1445.1669,-188.1348 c 0.78,-0.536 1.38,-0.491 2.17,-0.287 0.76,0.198 0.81,-0.793 1.43,-1.009 0.68,-0.237 1.41,-0.06 2.09,-0.279 0.99,-0.31 0.8,-1.505 1.27,-2.245 0.44,-0.704 1.03,-1.295 1.53,-1.958 0.64,-0.853 0.56,-1.616 1.13,-2.387 0.51,-0.68 1.09,-1.479 1.37,-2.292 0.32,-0.946 -0.1,-1.386 0.62,-1.744 0.66,-0.353 0.86,-0.592 1.32,-1.179 0.72,-0.918 2.03,-0.264 2.9,-0.987 0.71,-0.597 1.2,-1.435 1.99,-1.949 1.08,-0.712 2.31,0.188 3.42,0.333 1.06,0.138 2.1,0.36 3.16,0.468 1.27,0.129 2.87,-0.43 4.01,0.306 2.16,1.394 2.36,2.235 4.37,0.317 1.26,-1.201 3.88,-0.59 5.47,-0.857 1.05,-0.176 0.86,-0.938 1.46,-1.601 0.65,-0.714 1.89,-0.76 2.78,-0.659 1.98,0.225 3.11,2.312 3.94,3.889 0.92,1.748 2.22,3.272 3.63,4.625 2.06,1.978 3.02,3.436 3.85,6.155 0.3,0.995 -0.29,2.004 -0.52,2.944 -0.25,1.081 0.22,2.229 0.31,3.32 0.13,1.813 0.57,2.551 2,3.56 0.55,0.387 1.86,1.332 2.69,0.855 0.91,-0.529 5.58,-3.111 6.22,-0.391 0.83,3.453 -1.02,4.742 -4.21,4.716 0.39,-0.314 0.73,-2.209 -0.1,-2.181 -0.99,0.03 -0.46,2.319 -1.19,2.901 0.47,-0.111 0.95,-0.183 1.44,-0.216 -0.73,0.316 -2.02,0.413 -1.15,1.367 0.26,-0.222 0.5,-0.462 0.72,-0.72 -0.31,1.139 -1.53,1.764 -1.73,2.952 -0.22,1.267 0.74,3.342 -0.1,4.525 -0.48,-0.408 -1.55,0.04 -2.03,-0.207 -0.38,-0.198 -1.77,-1.215 -2.52,-1.899 -1.02,-0.316 -1.99,0.17 -3.36,-0.488 -1.11,-0.531 -3.01,-1.224 -5.14,-0.363 -4.67,0.46 -5.68,3.087 -7.82,3.572 -1.31,0.298 -3.13,-0.342 -5.03,-0.585 -2.28,-0.293 -3.5,0.354 -4.76,0.324 -1.05,-0.02 -2.34,-1.088 -4.18,-1.16 -0.94,-0.04 -3.96,0.759 -4.6,-0.261 -0.94,-1.495 2.81,-1.559 -0.64,-2.806 -0.85,-0.308 -1.14,-0.26 -2.27,-1.845 -0.98,-1.379 1.32,-1.04 1.8,-1.275 -0.54,-0.664 -1.69,-1.369 -2.56,-1.059 -0.6,0.213 -0.76,1.796 -1.47,1.641 -0.72,-0.155 -1.75,-1.342 -2.67,-1.606 -1,-0.287 -2.16,-0.548 -2.92,-1.331 0.83,-0.243 1.03,-1.313 0,-1.439 0.96,-0.901 0.44,-1.529 -0.69,-1.926 -1.53,-0.535 -2.69,-1.432 -4.01,-2.322 1.18,-2.338 -2.09,-3.755 -3.43,-5.257">
     <title
-       id="title6953">Romania (1 contributions)
+       id="title6953">Romania<!-- ro_contributions -->
 </title>
   </path>
   <path
@@ -2931,7 +2931,7 @@
      class="landxx coastxx gb"
      transform="translate(-1.5631002,-488.5008)">
     <title
-       id="title7077">United Kingdom (1430 contributions)
+       id="title7077">United Kingdom (3640 contributions)
 </title>
     <path
        id="United_Kingdom_Northern_Ireland"
@@ -3073,7 +3073,7 @@
      class="landxx coastxx ng"
      transform="translate(-1.5631002,-488.5008)">
     <title
-       id="title7124">Nigeria (40 contributions)
+       id="title7124">Nigeria (39 contributions)
 </title>
     <path
        id="Nigeria_mainland"
@@ -3130,7 +3130,7 @@
      class="landxx eg"
      d="m 1483.8269,-49.534802 c -1.43,-2.281 1.51,-4.671 1.15,-7.01 -0.39,-2.512 -2.68,-4.265 0.94,-7.246004 0.1,1.83 2.21,1.175 3.31,0.846 2.02,-0.601 3.68,0.07 5.69,0.271 2.2,0.22 4.3,0.709 6.43,1.276004 0.9,0.24 1.04,1.218 1.96,1.5 0.81,0.25 1.42,0.149 2.23,0.06 0.54,-0.06 0.79,0.786 1.4,0.912 0.66,0.138 1.34,0.141 2.02,0.208 2.16,0.214 3.6,1.571 5.63,1.91 1.97,0.328 3.84,-0.993 5.25,-2.193 0.73,-0.622 1.41,-1.298 2.08,-1.985 0.57,0.447 1,0.907 1.73,0.792 -0.42,-0.208 -0.33,-0.327 -0.87,-0.288 0.71,-0.376 1.41,-1.059 1.59,-1.872004 1.22,0.732004 2.37,-0.583 3.6,-0.574 -0.82,0.378 -1.61,0.848 -2.24,1.511004 0.22,-0.128 5.18,-1.628004 2.81,-1.800004 1.75,-0.58 2.89,1.427 4.57,1.188 0.81,-0.114 1.57,-0.909 2.42,-0.611 0.79,0.276 1.17,1.425004 1.87,1.871004 -0.71,-0.498 -1.44,-1.592004 -2.38,-1.655004 0.28,0.746004 -0.75,2.157004 0.46,2.447004 1.32,0.315 0.7,0.642 1.56,1.44 0,-0.294 2.35,-1.288 0.65,-2.088 1.81,0.422 2.42,2.096 4.54,1.91 0.69,-0.06 2.73,-1.334 2.37,0.178 1.32,-0.838 2.8,-0.349 4.21,-0.776 1.25,-0.375 2.5,-0.864 3.5,-1.733 l 6.08,16.049 c -1.54,1.955 -1.19,5.571 -2.17,7.887 -0.57,1.354 -0.55,2.198 -0.53,3.629 0,1.224 -1.55,2.408 -1.16,3.601 -0.75,-0.687 -1.74,-0.997 -2.56,-1.571 -1.04,-0.729 -1.77,-1.791 -2.48,-2.818 -0.9,-1.302 -3.55,-2.152 -3.16,-4.107 0.38,-1.97 -1.52,-3.336 -2.49,-4.724 -1.34,-1.917 -2.3,-4.15 -2.84,-6.436 -0.9,0.969 -1.86,3.083 -0.92,4.189 1.61,1.895 1.44,4.221 2.79,6.179 1.17,1.696 2.35,3.772 3.81,5.219 0.65,0.64 1.38,1.191 1.97,1.888 0.31,0.365 1.58,2.457 0.1,1.316 1.24,0.966 0.21,2.196 1,2.992 1.05,1.068 1.61,2.2 2.16,3.546 0.27,0.662 0.72,1.229 1.11,1.824 0.29,0.455 -0.29,1.035 -0.32,1.48 0,0.595 0.94,1.478 1.2,1.991 0.61,1.174 1.27,2.32 1.89,3.492 2.02,3.85 4.06,7.6319998 5.97,11.5409998 0.75,1.529 1.84,2.624 2.78,3.99800004 0.88,1.27899996 2.41,1.67499996 3.22,2.97599996 -0.77,0.04 -1.54,-0.09 -2.23,-0.432 -0.5,2.089 -0.26,5.278 0.81,6.51 1.01,1.1720002 -1.33,3.5260002 -2.76,3.5960002 -0.71,0.03 -0.98,-0.481 -1.69,0.314 -0.56,0.627 -0.86,1.703 -1.12,2.507 -0.29,0.929 -0.73,1.75 -1.75,1.989 -0.83,0.193 -2.33,0.02 -2.77,0.975 -0.8,1.743 -0.31,3.777 -2.77,3.582 -2.86,-0.228 -4.32,-2.548 -5.83,-2.485 -4.96,0.208 -7.82,0.661 -11.71,0 0.11,-0.391 0.56,-1.218 0.28,-1.62 -0.7,-1.017 -1.24,0.827 -1.47,1.16 -0.93,1.334 -5.6,0.532 -7.09,0.532 l -40.09,-0.09 -1.43,-54.185 c -0.15,-2.533 -0.1,-5.19 -0.44,-7.699 -0.3,-2.158 -0.85,-5.35 -1.82,-7.295">
     <title
-       id="title7144">Egypt (727 contributions)
+       id="title7144">Egypt (861 contributions)
 </title>
   </path>
   <g
@@ -3183,7 +3183,7 @@
      class="landxx coastxx vn"
      transform="translate(-1.5631002,-488.5008)">
     <title
-       id="title7162">Vietnam, Socialist Republic of (60 contributions)
+       id="title7162">Vietnam, Socialist Republic of (69 contributions)
 </title>
     <path
        id="Vietnam_mainland"
@@ -3814,7 +3814,7 @@
      class="landxx coastxx in"
      transform="translate(-1.5631002,-488.5008)">
     <title
-       id="title7374">India (953 contributions)
+       id="title7374">India (1197 contributions)
 </title>
     <path
        id="India_mainland"
@@ -3859,7 +3859,7 @@
      class="landxx coastxx ca"
      transform="translate(-1.5631002,-488.5008)">
     <title
-       id="title7389">Canada (12 contributions)
+       id="title7389">Canada (16 contributions)
 </title>
     <path
        id="Canada_mainland"
@@ -4739,7 +4739,7 @@
      class="landxx eu be"
      d="m 1326.1569,-229.8668 c 1.78,-0.926 3.93,-1.86 5.88,-2.377 -0.92,0.981 1.28,0.744 2.03,0.928 0.64,0.154 0.96,0.427 1.66,0.238 0.87,-0.234 1.86,-1.694 2.16,-0.33 -0.11,-0.307 -0.21,-0.619 -0.29,-0.937 0.66,0.145 1.46,0.109 1.37,-0.791 0.52,0.396 1.38,0.634 1.8,-0.07 0.35,0.863 1.61,0.584 2.08,0 0.55,2.027 3.52,2.021 5.26,2.735 -0.93,1.09 -1.91,2.409 -0.25,3.24 0.57,0.282 0.93,0.147 1.32,0.07 -0.29,0.726 2.09,1.015 1.09,2.02 0.99,-0.167 0.94,0.978 1.23,1.584 -1.15,0.208 -1.04,0.843 -1.75,1.434 -0.29,0.239 -1.02,-0.37 -1.67,0.654 -0.55,0.866 -0.99,1.291 -0.85,2.048 0.17,0.77 1.34,1.739 0,2.658 -0.27,-0.03 -1.11,-0.01 -1.98,-0.11 -0.11,-0.186 -0.62,-1.015 -1.18,-1.344 -0.75,-0.449 -2.29,-0.577 -2.77,-1.163 -0.32,-0.39 -0.1,-2.324 -0.14,-2.881 -0.67,0.264 -0.86,0.822 -1.33,1.284 -0.87,0.849 -2.24,0.474 -3.28,0.3 0.22,-0.879 0.62,-2.263 -0.11,-2.735 -0.87,-0.562 -2.23,-0.539 -2.84,-0.145 0.11,-1.356 -0.78,-1.038 -1.77,-1.453 -1.16,-0.491 -0.86,-0.513 -1.51,-1.525 -0.23,-0.369 -2.43,-0.304 -2.9,-0.586 -1.34,-0.813 -0.16,-2.373 -1.24,-2.754">
     <title
-       id="title7683">Belgium (1 contributions)
+       id="title7683">Belgium<!-- be_contributions -->
 </title>
   </path>
   <g
@@ -5809,7 +5809,7 @@
        class="landxx ma"
        d="m 1207.6,456.891 c 1.42,-0.515 2.97,-0.581 4.43,-0.903 2.71,-0.598 5.47,-1.456 7.52,-3.42 2.01,-1.926 4.1,-3.439 6.2,-5.224 2.01,-1.709 3.55,-3.989 5.17,-6.064 1.09,-1.408 3.6,-5.462 1.48,-6.998 -0.82,-0.594 -1.39,-0.614 -0.87,-1.715 0.52,-1.093 0.47,-2.186 0.53,-3.378 0.16,-3.319 1.36,-4.8 3.39,-7.273 1.16,-1.414 0.84,-2.853 1.33,-4.479 0.35,-1.177 1.32,-2.089 2.2,-2.89 1.88,-1.713 3.37,-3.822 5.73,-4.888 2.57,-1.161 5.3,-2.068 7.75,-3.465 4.86,-2.765 7.19,-9.5 9.03,-14.457 0.18,-0.479 0.82,-2.923 1.56,-2.848 0.91,0.09 1.83,-0.275 2.6,-0.69 0.98,-0.524 1.17,0.773 1.45,1.471 0.55,1.348 1.28,2.264 2.47,3.108 2.48,1.762 4.54,1.269 7.38,0.929 2.35,-0.281 5.34,1.149 6.77,-1.614 0,0.9 0.22,1.124 0.35,1.807 0.13,0.732 1.46,1.102 0.3,-0.08 0.63,0.872 1.75,1.317 2.76,0.814 1.03,-0.513 1.65,0.544 2.28,1.13 0.68,0.629 1.89,0.985 2.3,1.872 0.46,1.014 -0.54,1.943 0.87,2.52 -0.76,0.599 -0.52,1.699 -0.37,2.505 0.23,1.276 -0.2,2.398 0,3.629 0.12,0.989 0.76,1.62 0.51,2.682 -0.37,1.597 -0.19,2.164 0.57,3.569 0.39,0.715 0,1.352 0.43,2.007 0.57,0.974 1.47,1.361 2.32,2.032 1.57,1.237 -3.12,3.291 -0.61,4.24 -2.59,0.664 -11.65,-2.445 -12.98,1.065 -0.69,1.833 -2.5,2.531 -4.46,2.367 -1.48,-0.125 -3.3,1.99 -1.28,2.544 -1.71,1.562 1.43,2.719 0.68,3.46 -0.86,0.847 -2.35,0.541 -3.28,1.214 -0.96,0.706 -2.02,1.764 -3.17,2.159 -0.86,0.298 -1.84,0.272 -2.65,0.726 -1.57,0.879 -2.21,2.722 -3.36,4.012 -1.32,1.479 -3.77,2.057 -5.69,2.133 -1.44,0.06 -3,-0.549 -3.58,1.172 -0.62,1.836 -2.43,0.461 -3.87,0.568 -1.02,0.07 -1.62,0.584 -2.27,1.292 -0.67,0.72 -1.45,0.568 -2.28,0.9 -0.96,0.383 -1.55,1.331 -2.32,1.969 -0.81,0.678 -1.82,1.1 -2.65,1.773 -1.62,1.313 -3.04,1.504 -2.88,3.776 0.16,2.26 -0.1,4.765 -0.33,7.012 l -33.295,0.2355 c 0.325,-0.3805 1.445,-2.1625 1.835,-2.3065 z">
       <title
-         id="title8043">Morocco (18 contributions)
+         id="title8043">Morocco (17 contributions)
 </title>
     </path>
     <g
@@ -7395,7 +7395,7 @@
      class="landxx coastxx au"
      transform="translate(-1.5631002,-488.5008)">
     <title
-       id="title8579">Australia (25 contributions)
+       id="title8579">Australia (30 contributions)
 </title>
     <path
        id="path3366"
@@ -9545,7 +9545,7 @@
            id="tspan23840"
            style="font-size:29.8626px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:3.31807"
            x="1409.2361"
-           y="1542.405">%8</tspan></text>
+           y="1542.405">3.6k</tspan></text>
       <rect
          class="palette-color-7"
          style="fill:#0066ff;fill-rule:evenodd;stroke-width:3.31807"
@@ -9567,7 +9567,7 @@
            id="tspan29686"
            style="font-size:29.8626px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:3.31807"
            x="1309.5117"
-           y="1542.8457">1.4k</tspan></text>
+           y="1542.8457">142</tspan></text>
       <rect
          class="palette-color-6"
          style="fill:#2a7fff;fill-rule:evenodd;stroke-width:3.31807"
@@ -9589,7 +9589,7 @@
            id="tspan29690"
            style="font-size:29.8626px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:3.31807"
            x="1209.9623"
-           y="1542.4438">78</tspan></text>
+           y="1542.4438">59</tspan></text>
       <rect
          class="palette-color-5"
          style="fill:#5599ff;fill-rule:evenodd;stroke-width:3.31807"
@@ -9611,7 +9611,7 @@
            id="tspan29698"
            style="font-size:29.8626px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:3.31807"
            x="1110.3035"
-           y="1542.4438">40</tspan></text>
+           y="1542.4438">30</tspan></text>
       <rect
          class="palette-color-4"
          style="fill:#80b3ff;fill-rule:evenodd;stroke-width:3.31807"
@@ -9633,7 +9633,7 @@
            id="tspan29702"
            style="font-size:29.8626px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:3.31807"
            x="1011.2278"
-           y="1542.8457">17</tspan></text>
+           y="1542.8457">11</tspan></text>
       <rect
          class="palette-color-3"
          style="fill:#aaccff;fill-rule:evenodd;stroke-width:3.31807"
@@ -9655,7 +9655,7 @@
            id="tspan29706"
            style="font-size:29.8626px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:3.31807"
            x="911.43048"
-           y="1542.4438">8</tspan></text>
+           y="1542.4438">6</tspan></text>
       <rect
          class="palette-color-2"
          style="fill:#d5e5ff;fill-rule:evenodd;stroke-width:3.31807"
@@ -9757,7 +9757,7 @@
            id="tspan101998"
            style="font-size:29.8626px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:3.31807"
            x="1409.2361"
-           y="1542.405">%8</tspan></text>
+           y="1542.405">3.6k</tspan></text>
       <rect
          class="palette-color-7"
          style="fill:#0066ff;fill-rule:evenodd;stroke-width:3.31807"
@@ -9780,7 +9780,7 @@
            id="tspan102006"
            style="font-size:29.8626px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:3.31807"
            x="1309.5117"
-           y="1542.8457">1.4k</tspan></text>
+           y="1542.8457">142</tspan></text>
       <rect
          class="palette-color-6"
          style="fill:#2a7fff;fill-rule:evenodd;stroke-width:3.31807"
@@ -9803,7 +9803,7 @@
            id="tspan102014"
            style="font-size:29.8626px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:3.31807"
            x="1209.9623"
-           y="1542.4438">78</tspan></text>
+           y="1542.4438">59</tspan></text>
       <rect
          class="palette-color-5"
          style="fill:#5599ff;fill-rule:evenodd;stroke-width:3.31807"
@@ -9826,7 +9826,7 @@
            id="tspan102022"
            style="font-size:29.8626px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:3.31807"
            x="1110.3035"
-           y="1542.4438">40</tspan></text>
+           y="1542.4438">30</tspan></text>
       <rect
          class="palette-color-4"
          style="fill:#80b3ff;fill-rule:evenodd;stroke-width:3.31807"
@@ -9849,7 +9849,7 @@
            id="tspan102030"
            style="font-size:29.8626px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:3.31807"
            x="1011.2278"
-           y="1542.8457">17</tspan></text>
+           y="1542.8457">11</tspan></text>
       <rect
          class="palette-color-3"
          style="fill:#aaccff;fill-rule:evenodd;stroke-width:3.31807"
@@ -9872,7 +9872,7 @@
            id="tspan102038"
            style="font-size:29.8626px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:3.31807"
            x="911.43048"
-           y="1542.4438">8</tspan></text>
+           y="1542.4438">6</tspan></text>
       <rect
          class="palette-color-2"
          style="fill:#d5e5ff;fill-rule:evenodd;stroke-width:3.31807"
@@ -9953,7 +9953,7 @@
            id="tspan104696"
            style="font-size:29.8626px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:3.31807"
            x="1409.2361"
-           y="1542.405">%8</tspan></text>
+           y="1542.405">3.6k</tspan></text>
       <rect
          class="palette-color-7"
          style="fill:#0066ff;fill-rule:evenodd;stroke-width:3.31807"
@@ -9976,7 +9976,7 @@
            id="tspan104704"
            style="font-size:29.8626px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:3.31807"
            x="1309.5117"
-           y="1542.8457">1.4k</tspan></text>
+           y="1542.8457">142</tspan></text>
       <rect
          class="palette-color-6"
          style="fill:#2a7fff;fill-rule:evenodd;stroke-width:3.31807"
@@ -9999,7 +9999,7 @@
            id="tspan104712"
            style="font-size:29.8626px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:3.31807"
            x="1209.9623"
-           y="1542.4438">78</tspan></text>
+           y="1542.4438">59</tspan></text>
       <rect
          class="palette-color-5"
          style="fill:#5599ff;fill-rule:evenodd;stroke-width:3.31807"
@@ -10022,7 +10022,7 @@
            id="tspan104720"
            style="font-size:29.8626px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:3.31807"
            x="1110.3035"
-           y="1542.4438">40</tspan></text>
+           y="1542.4438">30</tspan></text>
       <rect
          class="palette-color-4"
          style="fill:#80b3ff;fill-rule:evenodd;stroke-width:3.31807"
@@ -10045,7 +10045,7 @@
            id="tspan104728"
            style="font-size:29.8626px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:3.31807"
            x="1011.2278"
-           y="1542.8457">17</tspan></text>
+           y="1542.8457">11</tspan></text>
       <rect
          class="palette-color-3"
          style="fill:#aaccff;fill-rule:evenodd;stroke-width:3.31807"
@@ -10068,7 +10068,7 @@
            id="tspan104736"
            style="font-size:29.8626px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:3.31807"
            x="911.43048"
-           y="1542.4438">8</tspan></text>
+           y="1542.4438">6</tspan></text>
       <rect
          class="palette-color-2"
          style="fill:#d5e5ff;fill-rule:evenodd;stroke-width:3.31807"
@@ -10149,7 +10149,7 @@
            id="tspan106774"
            style="font-size:29.8626px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:3.31807"
            x="1309.5117"
-           y="1542.8457">1.4k</tspan></text>
+           y="1542.8457">142</tspan></text>
       <rect
          class="palette-color-6"
          style="fill:#2a7fff;fill-rule:evenodd;stroke-width:3.31807"
@@ -10172,7 +10172,7 @@
            id="tspan106782"
            style="font-size:29.8626px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:3.31807"
            x="1209.9623"
-           y="1542.4438">78</tspan></text>
+           y="1542.4438">59</tspan></text>
       <rect
          class="palette-color-5"
          style="fill:#5599ff;fill-rule:evenodd;stroke-width:3.31807"
@@ -10195,7 +10195,7 @@
            id="tspan106790"
            style="font-size:29.8626px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:3.31807"
            x="1110.3035"
-           y="1542.4438">40</tspan></text>
+           y="1542.4438">30</tspan></text>
       <rect
          class="palette-color-4"
          style="fill:#80b3ff;fill-rule:evenodd;stroke-width:3.31807"
@@ -10218,7 +10218,7 @@
            id="tspan106798"
            style="font-size:29.8626px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:3.31807"
            x="1011.2278"
-           y="1542.8457">17</tspan></text>
+           y="1542.8457">11</tspan></text>
       <rect
          class="palette-color-3"
          style="fill:#aaccff;fill-rule:evenodd;stroke-width:3.31807"
@@ -10241,7 +10241,7 @@
            id="tspan106806"
            style="font-size:29.8626px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:3.31807"
            x="911.43048"
-           y="1542.4438">8</tspan></text>
+           y="1542.4438">6</tspan></text>
       <rect
          class="palette-color-2"
          style="fill:#d5e5ff;fill-rule:evenodd;stroke-width:3.31807"
@@ -10300,7 +10300,7 @@
            id="tspan106828"
            style="font-size:29.8626px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:3.31807"
            x="1706.8193"
-           y="1542.444">%8</tspan></text>
+           y="1542.444">3.6k</tspan></text>
     </g>
   </g>
   <g
@@ -10322,7 +10322,7 @@
            id="tspan108946"
            style="font-size:29.8626px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:3.31807"
            x="1209.9623"
-           y="1542.4438">78</tspan></text>
+           y="1542.4438">59</tspan></text>
       <rect
          class="palette-color-5"
          style="fill:#5599ff;fill-rule:evenodd;stroke-width:3.31807"
@@ -10345,7 +10345,7 @@
            id="tspan108954"
            style="font-size:29.8626px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:3.31807"
            x="1110.3035"
-           y="1542.4438">40</tspan></text>
+           y="1542.4438">30</tspan></text>
       <rect
          class="palette-color-4"
          style="fill:#80b3ff;fill-rule:evenodd;stroke-width:3.31807"
@@ -10368,7 +10368,7 @@
            id="tspan108962"
            style="font-size:29.8626px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:3.31807"
            x="1011.2278"
-           y="1542.8457">17</tspan></text>
+           y="1542.8457">11</tspan></text>
       <rect
          class="palette-color-3"
          style="fill:#aaccff;fill-rule:evenodd;stroke-width:3.31807"
@@ -10391,7 +10391,7 @@
            id="tspan108970"
            style="font-size:29.8626px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:3.31807"
            x="911.43048"
-           y="1542.4438">8</tspan></text>
+           y="1542.4438">6</tspan></text>
       <rect
          class="palette-color-2"
          style="fill:#d5e5ff;fill-rule:evenodd;stroke-width:3.31807"
@@ -10452,7 +10452,7 @@
            id="tspan108992"
            style="font-size:29.8626px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:3.31807"
            x="1706.8193"
-           y="1542.444">1.4k</tspan></text>
+           y="1542.444">142</tspan></text>
     </g>
   </g>
   <g
@@ -10497,7 +10497,7 @@
            id="tspan111664"
            style="font-size:29.8626px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:3.31807"
            x="1011.2278"
-           y="1542.8457">17</tspan></text>
+           y="1542.8457">11</tspan></text>
       <rect
          class="palette-color-3"
          style="fill:#aaccff;fill-rule:evenodd;stroke-width:3.31807"
@@ -10520,7 +10520,7 @@
            id="tspan111672"
            style="font-size:29.8626px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:3.31807"
            x="911.43048"
-           y="1542.4438">8</tspan></text>
+           y="1542.4438">6</tspan></text>
       <rect
          class="palette-color-2"
          style="fill:#d5e5ff;fill-rule:evenodd;stroke-width:3.31807"
@@ -10581,7 +10581,7 @@
            id="tspan111694"
            style="font-size:29.8626px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:3.31807"
            x="1706.8193"
-           y="1542.444">78</tspan></text>
+           y="1542.444">59</tspan></text>
     </g>
   </g>
   <g
@@ -10603,7 +10603,7 @@
            id="tspan113644"
            style="font-size:29.8626px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:3.31807"
            x="1011.2278"
-           y="1542.8457">17</tspan></text>
+           y="1542.8457">11</tspan></text>
       <rect
          class="palette-color-3"
          style="fill:#aaccff;fill-rule:evenodd;stroke-width:3.31807"
@@ -10626,7 +10626,7 @@
            id="tspan113652"
            style="font-size:29.8626px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:3.31807"
            x="911.43048"
-           y="1542.4438">8</tspan></text>
+           y="1542.4438">6</tspan></text>
       <rect
          class="palette-color-2"
          style="fill:#d5e5ff;fill-rule:evenodd;stroke-width:3.31807"
@@ -10687,7 +10687,7 @@
            id="tspan113674"
            style="font-size:29.8626px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:3.31807"
            x="1706.8193"
-           y="1542.444">40</tspan></text>
+           y="1542.444">30</tspan></text>
     </g>
   </g>
   <g
@@ -10709,7 +10709,7 @@
            id="tspan114422"
            style="font-size:29.8626px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:3.31807"
            x="911.43048"
-           y="1542.4438">8</tspan></text>
+           y="1542.4438">6</tspan></text>
       <rect
          class="palette-color-2"
          style="fill:#d5e5ff;fill-rule:evenodd;stroke-width:3.31807"
@@ -10770,7 +10770,7 @@
            id="tspan114444"
            style="font-size:29.8626px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:3.31807"
            x="1706.8193"
-           y="1542.444">17</tspan></text>
+           y="1542.444">11</tspan></text>
     </g>
   </g>
   <g
@@ -10830,7 +10830,7 @@
            id="tspan114554"
            style="font-size:29.8626px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:3.31807"
            x="1706.8193"
-           y="1542.444">8</tspan></text>
+           y="1542.444">6</tspan></text>
     </g>
   </g>
   <metadata
