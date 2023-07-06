@@ -1,17 +1,17 @@
-name: Create Ivy Map Map
+# name: Create Ivy Map Map
 
-on:
-  schedule:
-    - cron: "0 8 * * 1"
+# on:
+#   schedule:
+#     - cron: "0 8 * * 1"
   
-jobs:
-  build-and-push-image:
-    runs-on: ubuntu-latest
-    permissions: write-all
+# jobs:
+#   build-and-push-image:
+#     runs-on: ubuntu-latest
+#     permissions: write-all
     
-    steps:
-      - name: Contributor Map
-        uses: tunaitis/contributor-map@master
-        with:
-          repository: unifyai/ivy
-          output: data/ivy.svg
+#     steps:
+#       - name: Contributor Map
+#         uses: tunaitis/contributor-map@master
+#         with:
+#           repository: unifyai/ivy
+#           output: data/ivy.svg
