@@ -13,7 +13,7 @@ jobs:
     
     steps:
       - name: Ivy Map
-        uses: tunaitis/contributor-map@master
+        uses: tunaitis/contributor-map@v1
         with:
           repository: unifyai/ivy
           output: data/ivy.svg
